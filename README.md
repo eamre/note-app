@@ -4,6 +4,18 @@
 <img src="https://github.com/eamre/note-app/blob/main/public/ph3.PNG" width="700" height="400" />
 
 
+## Installation
+
+
+Alternatively, you can run Note App locally from the command line:
+
+```bash
+$ git clone https://github.com/eamre/note-app.git
+$ cd note-app
+$ npm install
+$ npm start
+```
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
