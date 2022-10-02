@@ -1,7 +1,7 @@
 # Note App
-<img src="https://github.com/eamre/note-app/blob/main/public/ph1.PNG" width="700" height="400"/>
-<img src="https://github.com/eamre/note-app/blob/main/public/ph2.PNG" width="700" height="400" />
-<img src="https://github.com/eamre/note-app/blob/main/public/ph3.PNG" width="700" height="400" />
+<img src="https://github.com/eamre/note-app/blob/main/public/ph1.PNG" width="600"/>
+<img src="https://github.com/eamre/note-app/blob/main/public/ph2.PNG" width="600"  />
+<img src="https://github.com/eamre/note-app/blob/main/public/ph3.PNG" width="600"  />
 
 
 ## Installation
